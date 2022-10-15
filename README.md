@@ -1,3 +1,3 @@
 ```
-🔨This is a deposit PicGo_img’s repository.
+🔨This is a deposit files repository.
 ```
